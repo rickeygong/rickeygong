@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 <!-- GitHub 活动统计图 -->
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rickeygong&thtme=github-compact)
 
+[![rickeygong's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rickeygong&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <!-- GitHub 访客徽章 -->
 ![visitors](https://visitor-badge.glitch.me/badge?rickeygong=page.id&left_color=green&right_color=red)
 
