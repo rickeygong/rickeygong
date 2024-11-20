@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!-- 打字特性 -->
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=测试 测试 测试 测试 测试)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=测试测试测试测试测试)
 
 <!--
 **rickeygong/rickeygong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
