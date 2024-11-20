@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!-- 打字特性 -->
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=测试测试测试测试测试)
-
 <!--
 **rickeygong/rickeygong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,6 +16,13 @@ Here are some ideas to get you started:
 -->
 
 <!-- 参考文档：www.cnblogs.com/PeterJXL/p/18437094 -->
+
+<!-- 打字特效 调试：https://readme-typing-svg.demolab.com/demo/ -->
+<!-- ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=测试测试测试测试测试) -->
+
+<!-- GitHub 连续打卡 -->
+![GitHub Streak](https://streak-stats.demolab.com/?user=rickeygong)
+
 
 <!-- GitHub 统计卡片 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickeygong)
