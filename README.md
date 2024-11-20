@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<!-- 打字特性 -->
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=测试 测试 测试 测试 测试)
+
 <!--
 **rickeygong/rickeygong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,8 +29,8 @@ Here are some ideas to get you started:
 <!-- GitHub 活动统计图 -->
 [![rickeygong's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rickeygong&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!-- GitHub 访客徽章 -->
-![visitors](https://visitor-badge.glitch.me/badge?page_id=rickeygong&left_color=green&right_color=red)
+<!-- GitHub 访客徽章(无法显示) -->
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=rickeygong&left_color=green&right_color=red) -->
 
 
 
