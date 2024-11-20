@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 <!-- 打字特效 调试：https://readme-typing-svg.demolab.com/demo/ -->
 <!-- ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=测试测试测试测试测试) -->
 
-<!-- GitHub 连续打卡 -->
-![GitHub Streak](https://streak-stats.demolab.com/?user=rickeygong)
+<!-- GitHub 连续打卡 https://github.com/DenverCoder1/github-readme-streak-stats -->
+![GitHub Streak](https://streak-stats.demolab.com/?user=rickeygong&theme=dark)
 
 
 <!-- GitHub 统计卡片 -->
