@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 <!-- GitHub 访客徽章 -->
 ![visitors](https://visitor-badge.glitch.me/badge?rickeygong=page.id&left_color=green&right_color=red)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=rickeygong.891244760&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=rickeygong.rickeygong&left_color=green&right_color=red)
 
 
